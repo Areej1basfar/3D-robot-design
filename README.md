@@ -1,4 +1,4 @@
-# 3D-robot-design.<br>
+# 3D robot design <Smart Methods training 2023>.<br>
 #### Illustration of the entire robot shape 3D.<br><br>
 ![full body](https://github.com/Areej1basfar/3D-robot-design/assets/121516453/b8061f94-ee09-45e3-8c5b-b8879a2f7fb3)
 <br><br>
